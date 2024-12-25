@@ -1,4 +1,4 @@
-# Android support in Bazel
+Android support in Bazel
 
 ## Disclaimer
 
